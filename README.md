@@ -12,13 +12,13 @@ Bom, um projeto deve ter planejamento. O meu foi simples, criar código de exemp
 Desenvolvedores têm medo de mostrar seu código inicial, talvez, pela questão do julgamento dos seus colegas. Todo mundo deveria assumir que ao iniciar um projeto faz código ruim, e a partir dele gerar a cultura da refatoração. Refatorar o código deveria ser ao comum, como fazer testes unitários. Mostrar código inicial também gera discussões interessantes, assim, deixa que leiam seu código inicial, aproveite as críticas e seja feliz :-) 
 
 Voltando, o objetivo é dar os seguintes exemplos:
-*De como fazer uma conexão PDO com o PHP;
-*De como fazer uma consulta simples;
-*De como fazeruma consulta com filtro;
-*De como usar Prepared Statements;
-*De como proceder com uma inserção;
-*De como proceder com uma atualização;
-*De como proceder com uma deleção.
+* De como fazer uma conexão PDO com o PHP;
+* De como fazer uma consulta simples;
+* De como fazeruma consulta com filtro;
+* De como usar Prepared Statements;
+* De como proceder com uma inserção;
+* De como proceder com uma atualização;
+* De como proceder com uma deleção.
 
 ##Alternativa ao PDO
 Você também pode utilizar a extensão MySQLi, que traz uma boa implementação e garante o uso das funcionalidades mais recentes do MySQL. Ainda como desvantagem tem a questão de ser uma forma exclusiva de acesso ao MySQL, não podendo ser utilizada por outros SGBDs.
